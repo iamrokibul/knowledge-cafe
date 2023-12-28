@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "img": "https://shorturl.at/tJP47",
+        "title": "This is blog title-1",
+        "author": "Author-1",
+        "author_img": "https://shorturl.at/zJQW9",
+        "read_time": 5,
+        "post_date": "27/12/2023",
+        "post_quantity": 0
+    },
+    {
+        "id": 2,
+        "img": "https://shorturl.at/qxMR2",
+        "title": "This is blog title-2",
+        "author": "Author-2",
+        "author_img": "https://shorturl.at/zJQW9",
+        "read_time": 7,
+        "post_date": "25/12/2023",
+        "post_quantity": 0
+    },
+    {
+        "id": 3,
+        "img": "https://shorturl.at/ryKW1",
+        "title": "This is blog title-3",
+        "author": "Author-3",
+        "author_img": "https://shorturl.at/zJQW9",
+        "read_time": 10,
+        "post_date": "07/10/2023",
+        "post_quantity": 0
+    },
+    {
+        "id": 4,
+        "img": "https://shorturl.at/ejnRU",
+        "title": "This is blog title-4",
+        "author": "Author-1",
+        "author_img": "https://shorturl.at/zJQW9",
+        "read_time": 15,
+        "post_date": "20/11/2023",
+        "post_quantity": 0
+    }
+]
